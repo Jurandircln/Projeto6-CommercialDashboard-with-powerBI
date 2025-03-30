@@ -1,5 +1,4 @@
-# Projeto-6
-Vamos trabalhar com dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.  A ideia é criar um dashboard analítico no Power BI.
+A ideia é criar um dashboard analítico no Power BI.
 O dashboard deve responder as perguntas abaixo:
 • Pergunta 1 - Qual o valor total vendido?
 • Pergunta 2 - Quantas vendas foram realizadas por categoria de produto?
